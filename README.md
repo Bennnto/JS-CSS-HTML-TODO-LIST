@@ -12,10 +12,23 @@ A simple Todo List application built with HTML, CSS and JavaScript allows users 
 | Javascript(Vanilla)| Interactivity & localStorage   |
 
 ## Feature
-  - ➕ ADD New Tasks with Do button
-  - ✅ Mark Taasks as Complete (With Strike-through and change font-color)
-  - 💾 Automatic Saving and loading Using localStorage
-  - 📋 Lists will remain when page reload
-  - 🧹 Clear all tasks with clear button
+- list of features in Todo Application
+
+  
+|  No.         | Function                     |
+|--------------|------------------------------|
+| 1. ➕        | Add Tasks by click 'Do'      |
+| 2. ✅        | Mark Completed Task by 'Checkbox|
+| 3. 💾        | Automatic Saved in localStorage|
+| 4. 🧹        | Clear Tasks by click 'Clear'  |
+
+
+
+
+
+```
+- Can Amend style by amend in CSS filename : Style.css
+```
+
 ## Screenshot
 <img width="778" height="329" alt="Screenshot 2025-09-01 at 7 46 35 PM" src="https://github.com/user-attachments/assets/3b8ee546-ebc7-4386-98b1-e5d7f23c1e37" />
