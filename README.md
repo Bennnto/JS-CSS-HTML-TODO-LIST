@@ -27,7 +27,8 @@ A simple Todo List application built with HTML, CSS and JavaScript allows users 
 
 
 ```
-- Can Amend style by amend in CSS filename : Style.css
+Style : Colour, Font, amendment by CSS file >> Style.css
+
 ```
 
 ## Screenshot
